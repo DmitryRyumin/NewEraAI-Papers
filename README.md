@@ -38,5 +38,6 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 ## Supported Conferences
 
 | **Conference** | Year |
+|----------------|:----:|
 | ICASSP | [2023](https://github.com/DmitryRyumin/ICASSP-2023-Papers) |
 | INTERSPEECH | [2023](https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers) |
