@@ -18,7 +18,7 @@
 
 ---
 
-The repository provides links to collections of influential and interesting research papers from top AI conferences, with open-source code to promote reproducibility and provide detailed implementation insights beyond the scope of the article. Stay up to date with the latest advances in AI research!
+The repository provides links to collections of influential and interesting research papers from top AI conferences, with open-source code to promote reproducibility and provide detailed implementation insights beyond the scope of the article. Stay up to date with the latest advances in AI research! :star: the repository to support the advancement of AI!
 
 ---
 
