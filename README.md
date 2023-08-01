@@ -43,3 +43,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 |----------------|:----:|
 | ICASSP | [2023](https://github.com/DmitryRyumin/ICASSP-2023-Papers) |
 | INTERSPEECH | [2023](https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers) |
+
+---
+
+## Star History
+
+<p align="center">
+    <a href="https://star-history.com/#Dmitryryumin/NewEraAI-Papers&Date" target="_blank">
+        <img width="500" src="https://api.star-history.com/svg?repos=Dmitryryumin/NewEraAI-Papers&type=Date" alt="Star History Chart">
+    </a>
+<p>
