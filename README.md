@@ -44,6 +44,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 | CVPR | [2023](https://github.com/52CV/CVPR-2023-Papers) |
 | ICASSP | [2023](https://github.com/DmitryRyumin/ICASSP-2023-Papers) |
 | INTERSPEECH | [2023](https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers) |
+| CVPR | [2022](https://github.com/gbstack/CVPR-2022-papers) |
 
 ---
 
