@@ -45,9 +45,15 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         <td colspan="2" align="center"><strong>Year</strong></td>
     </tr>
     <tr>
+      <td colspan="3" align="center"><i>Computer Vision (CV)</i></td>
+    </tr>
+    <tr>
         <td>CVPR</td>
         <td><a href="https://github.com/gbstack/CVPR-2022-papers" target="_blank">2022</a></td>
         <td><a href="https://github.com/DmitryRyumin/CVPR-2023-Papers" target="_blank">2023</a></td>
+    </tr>
+    <tr>
+      <td colspan="3" align="center"><i>Speech (SP)</i></td>
     </tr>
     <tr>
         <td>ICASSP</td>
