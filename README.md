@@ -42,8 +42,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 <table>
     <tr>
         <td><strong>Conference</strong></td>
-        <td colspan="2"></td>
-        <td><strong>Year</strong></td>
+        <td colspan="2" align="center"><strong>Year</strong></td>
     </tr>
     <tr>
         <td>CVPR</td>
