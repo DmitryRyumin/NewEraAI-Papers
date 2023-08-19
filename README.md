@@ -37,7 +37,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ## Supported Conferences
 
-> ***NOTE*:** Conference table will be up to date all the time.
+> :exclamation: Conference table will be up to date all the time.
 
 <table>
     <tr>
@@ -49,21 +49,21 @@ Contributions to improve the completeness of this list are greatly appreciated. 
     </tr>
     <tr>
         <td>CVPR</td>
-        <td><a href="https://github.com/gbstack/CVPR-2022-papers" target="_blank">2022</a></td>
         <td><a href="https://github.com/DmitryRyumin/CVPR-2023-Papers" target="_blank">2023</a></td>
+        <td>2024</td>
     </tr>
     <tr>
       <td colspan="3" align="center"><i>Speech (SP)</i></td>
     </tr>
     <tr>
         <td>ICASSP</td>
-        <td>2022</td>
         <td><a href="https://github.com/DmitryRyumin/ICASSP-2023-Papers" target="_blank">2023</a></td>
+        <td>2024</td>
     </tr>
     <tr>
         <td>INTERSPEECH</td>
-        <td>2022</td>
         <td><a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers" target="_blank">2023</a></td>
+        <td>2024</td>
     </tr>
 </table>
 
