@@ -31,7 +31,7 @@ The repository provides links to collections of influential and interesting rese
 <br />
 <br />
 
-Contributions to improve the completeness of this list are greatly appreciated. If you come across any overlooked papers, please **feel free to [*create pull requests*](https://github.com/DmitryRyumin/NewEraAI-Papers/pulls), [*open issues*](https://github.com/DmitryRyumin/NewEraAI-Papers/issues) or contact me via [*email*](mailto:ryumin.d@iias.spb.su)**. Your participation is crucial to making this repository even better.
+Contributions to improve the completeness of this list are greatly appreciated. If you come across any overlooked papers, please **feel free to [*create pull requests*](https://github.com/DmitryRyumin/NewEraAI-Papers/pulls), [*open issues*](https://github.com/DmitryRyumin/NewEraAI-Papers/issues) or contact me via [*email*](mailto:neweraairesearch@gmail.com)**. Your participation is crucial to making this repository even better.
 
 ---
 
