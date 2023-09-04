@@ -53,6 +53,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         <td>2024</td>
     </tr>
     <tr>
+        <td>ICCV</td>
+        <td><a href="https://github.com/DmitryRyumin/ICCV-2023-Papers" target="_blank">2023</a></td>
+        <td>-</td>
+    </tr>
+    <tr>
       <td colspan="3" align="center"><i>Speech (SP)</i></td>
     </tr>
     <tr>
