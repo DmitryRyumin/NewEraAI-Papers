@@ -15,6 +15,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/dmitryryumin/NewEraAI-Papers)
 ![GitHub forks](https://img.shields.io/github/forks/dmitryryumin/NewEraAI-Papers)
 ![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/NewEraAI-Papers)
+![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FNewEraAI-Papers&label=Visitors&countColor=%23263759&style=flat)
 
 ---
 
