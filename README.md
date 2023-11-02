@@ -59,7 +59,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         <td>-</td>
     </tr>
     <tr>
-      <td colspan="3" align="center"><i>Speech (SP)</i></td>
+      <td colspan="3" align="center"><i>Speech/Signal Processing (SP/SigProc)</i></td>
     </tr>
     <tr>
         <td>ICASSP</td>
@@ -69,6 +69,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
     <tr>
         <td>INTERSPEECH</td>
         <td><a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers" target="_blank">2023</a></td>
+        <td>2024</td>
+    </tr>
+    <tr>
+        <td>ISMIR</td>
+        <td><a href="https://github.com/yamathcy/ISMIR-2023-Papers" target="_blank">2023</a></td>
         <td>2024</td>
     </tr>
 </table>
