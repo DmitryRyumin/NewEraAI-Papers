@@ -26,7 +26,7 @@ The repository provides links to collections of influential and interesting rese
 ## Contributors
 
 <a href="https://github.com/DmitryRyumin/NewEraAI-Papers/graphs/contributors">
-  <img src="http://contributors.nn.ci/api?repo=DmitryRyumin/NewEraAI-Papers" />
+  <img src="http://contributors.nn.ci/api?repo=DmitryRyumin/NewEraAI-Papers" alt="" />
 </a>
 
 <br />
@@ -42,39 +42,44 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 <table>
     <tr>
-        <td><strong>Conference</strong></td>
-        <td colspan="2" align="center"><strong>Year</strong></td>
+        <td rowspan="2" align="center"><strong>Conference</strong></td>
+        <td colspan="1" align="center"><strong>Year</strong></td>
     </tr>
     <tr>
-      <td colspan="3" align="center"><i>Computer Vision (CV)</i></td>
+        <td colspan="1" align="center"><i>2023</i></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><i>Computer Vision (CV)</i></td>
     </tr>
     <tr>
         <td>CVPR</td>
-        <td><a href="https://github.com/DmitryRyumin/CVPR-2023-Papers" target="_blank">2023</a></td>
-        <td>2024</td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/CVPR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/CVPR-2023-Papers" alt="" /></a></td>
     </tr>
     <tr>
         <td>ICCV</td>
-        <td><a href="https://github.com/DmitryRyumin/ICCV-2023-Papers" target="_blank">2023</a></td>
-        <td>-</td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/ICCV-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICCV-2023-Papers" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
     </tr>
     <tr>
-      <td colspan="3" align="center"><i>Speech/Signal Processing (SP/SigProc)</i></td>
+      <td colspan="2" align="center"><i>Speech/Signal Processing (SP/SigProc)</i></td>
     </tr>
     <tr>
         <td>ICASSP</td>
-        <td><a href="https://github.com/DmitryRyumin/ICASSP-2023-Papers" target="_blank">2023</a></td>
-        <td>2024</td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/ICASSP-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICASSP-2023-Papers" alt="" /></a></td>
     </tr>
     <tr>
         <td>INTERSPEECH</td>
-        <td><a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers" target="_blank">2023</a></td>
-        <td>2024</td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/INTERSPEECH-2023-Papers" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
     </tr>
     <tr>
         <td>ISMIR</td>
-        <td><a href="https://github.com/yamathcy/ISMIR-2023-Papers" target="_blank">2023</a></td>
-        <td>2024</td>
+        <td align="center"><a href="https://github.com/yamathcy/ISMIR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/yamathcy/ISMIR-2023-Papers" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><i>Natural Language Processing (NLP)</i></td>
+    </tr>
+    <tr>
+        <td>EMNLP</td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/EMNLP-2023-Papers" alt="" /></a></td>
     </tr>
 </table>
 
