@@ -51,9 +51,9 @@ def plot_bar_chart(df_melted):
                 (p.get_x() + p.get_width() / 2.0, height),
                 ha="center",
                 va="center",
-                xytext=(0, 10),
+                xytext=(0, 12),
                 textcoords="offset points",
-                fontsize=10,
+                fontsize=14,
                 color="black",
                 fontweight="bold",
                 bbox=dict(

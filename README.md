@@ -88,7 +88,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 ## Conference Statistics Comparison
 
 <p align="center">
-    <img width="500" src="https://raw.githubusercontent.com/DmitryRyumin/NewEraAI-Papers/main/images/conference_statistics_comparison.svg" alt="Conference Statistics Comparison">
+    <img width="600" src="https://raw.githubusercontent.com/DmitryRyumin/NewEraAI-Papers/main/images/conference_statistics_comparison.svg" alt="Conference Statistics Comparison">
 <p>
 
 ---
