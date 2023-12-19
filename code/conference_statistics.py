@@ -33,14 +33,13 @@ def preprocess_data(df):
 
 
 def set_seaborn_style():
-    sns.set_palette("muted")
     sns.set_style("whitegrid")
 
 
-def plot_bar_chart(df_melted):
+def plot_bar_chart(df_melted, color_palette):
     plt.figure(figsize=(12, 8))
     ax = sns.barplot(
-        data=df_melted, x="Conference", y="Count", hue="Category", palette="viridis"
+        data=df_melted, x="Conference", y="Count", hue="Category", palette=color_palette
     )
 
     for p in ax.patches:
@@ -101,7 +100,10 @@ def main():
     df_melted = preprocess_data(df)
 
     set_seaborn_style()
-    ax = plot_bar_chart(df_melted)
+
+    color_palette = ["#42BA16", "#B31B1B", "#1D7FBF", "#FF0000"]
+
+    ax = plot_bar_chart(df_melted, color_palette)
     customize_legend(ax)
     set_plot_labels(df)
     remove_spines()
