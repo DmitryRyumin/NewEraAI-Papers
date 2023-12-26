@@ -67,7 +67,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
     <tr>
         <td>CVPR</td>
         <td align="center"><a href="https://github.com/DmitryRyumin/CVPR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/CVPR-2023-Papers" alt="" /></a></td>
-        <td align="center"><img src="https://img.shields.io/badge/repo-June-white?logo=github&labelColor=b31b1b" alt="" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/June-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
         <td>ICCV</td>
@@ -77,12 +77,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
     <tr>
         <td>ECCV</td>
         <td align="center"><img src="https://img.shields.io/badge/Not%20Scheduled-CC5540" alt=""/></td>
-        <td align="center"><img src="https://img.shields.io/badge/repo-October-white?logo=github&labelColor=b31b1b" alt="" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/October-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
         <td>WACV</td>
         <td align="center">:heavy_minus_sign:</td>
-        <td align="center"><img src="https://img.shields.io/badge/repo-January-white?logo=github&labelColor=b31b1b" alt="" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/January-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
         <td colspan="3" align="center"><i>Speech/Signal Processing (SP/SigProc)</i></td>
@@ -90,12 +90,12 @@ Contributions to improve the completeness of this list are greatly appreciated. 
     <tr>
         <td>ICASSP</td>
         <td align="center"><a href="https://github.com/DmitryRyumin/ICASSP-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICASSP-2023-Papers" alt="" /></a></td>
-        <td align="center"><img src="https://img.shields.io/badge/repo-April-white?logo=github&labelColor=b31b1b" alt="" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/April-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
         <td>INTERSPEECH</td>
         <td align="center"><a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/INTERSPEECH-2023-Papers" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
-        <td align="center"><img src="https://img.shields.io/badge/repo-September-white?logo=github&labelColor=b31b1b" alt="" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/September-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
         <td>ISMIR</td>
@@ -108,7 +108,7 @@ Contributions to improve the completeness of this list are greatly appreciated. 
     <tr>
         <td>EMNLP</td>
         <td align="center"><a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/EMNLP-2023-Papers" alt="" /></a></td>
-        <td align="center"><img src="https://img.shields.io/badge/repo-December-white?logo=github&labelColor=b31b1b" alt="" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/December-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
         <td colspan="3" align="center"><i>Machine Learning (ML)</i></td>
@@ -116,17 +116,17 @@ Contributions to improve the completeness of this list are greatly appreciated. 
     <tr>
         <td>ICLR</td>
         <td align="center">:heavy_minus_sign:</td>
-        <td align="center"><img src="https://img.shields.io/badge/repo-May-white?logo=github&labelColor=b31b1b" alt="" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/May-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
         <td>ICML</td>
         <td align="center">:heavy_minus_sign:</td>
-        <td align="center"><img src="https://img.shields.io/badge/repo-July-white?logo=github&labelColor=b31b1b" alt="" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/July-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
         <td>NeurIPS</td>
         <td align="center">:heavy_minus_sign:</td>
-        <td align="center"><img src="https://img.shields.io/badge/repo-December-white?logo=github&labelColor=b31b1b" alt="" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/December-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
 </table>
 
