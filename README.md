@@ -40,15 +40,15 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 <!--
     2024:
-        WACV: 4-8 January +
-        ICASSP: 14-19 April +
-        ICLR: 7-11 May +
-        CVPR: 17-21 June +
-        ICML: 21-27 July +
-        INTERSPEECH: 1-5 September +
-        ECCV: 29 September - 04 October +
+        WACV: 4-8 January
+        ICASSP: 14-19 April
+        ICLR: 7-11 Ma
+        CVPR: 17-21 June
+        ICML: 21-27 July
+        INTERSPEECH: 1-5 September
+        ECCV: 29 September - 04 October
         NeurIPS: December?
-        EMNLP: December? +
+        EMNLP: December?
 -->
 > :exclamation: Conference table will be up to date all the time.
 
