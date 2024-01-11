@@ -16,10 +16,7 @@ class FileUpdate:
         self.content = content
 
 
-# Получение имени репозитория из переменной окружения GITHUB_REPOSITORY
 repo_full_name = os.getenv("GITHUB_REPOSITORY")
-
-# Разделение полного имени репозитория на владельца и название
 owner, repo_name = repo_full_name.split("/")
 
 
@@ -28,8 +25,8 @@ class Config:
     GITHUB_WORKSPACE = os.getenv("GITHUB_WORKSPACE", "/github/workspace")
     MARKDOWN_DIRECTORY = "sections"
     OUTPUT_DIRECTORY = "json_data"
-    MARKDOWN_DIRECTORY_LOCAL = "/Users/dl/GitHub/WACV-2024-Papers/sections"
-    OUTPUT_DIRECTORY_LOCAL = "/Users/dl/GitHub/WACV-2024-Papers/local_json_data"
+    MARKDOWN_DIRECTORY_LOCAL = Path("./sections").resolve()
+    OUTPUT_DIRECTORY_LOCAL = Path("./local_json_data").resolve()
     REPO_OWNER = owner
     REPO_NAME = repo_name
     COMMIT_MESSAGE = "Update files"
