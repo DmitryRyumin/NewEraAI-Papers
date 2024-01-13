@@ -247,7 +247,7 @@ def extract_github_info(url):
         return None
 
 
-def extract_paper_data(columns):
+def extract_paper_data(paper_section, columns):
     title_column = columns[0]
     title = title_column.get_text(strip=True)
     title_link = title_column.find("a")
@@ -322,6 +322,7 @@ def extract_paper_data(columns):
             "paper_thecvf": paper_thecvf,
             "paper_arxiv_id": paper_arxiv_id,
             "youtube_id": video_id,
+            "section": paper_section,
         }
 
         return paper_data
@@ -353,13 +354,14 @@ def process_markdown_file(
         )
         soup = BeautifulSoup(html_content, "html.parser")
         table_in_file = soup.find("table")
+        paper_section = soup.find("h2").text
 
         papers = []
 
         if table_in_file:
             for row in table_in_file.find_all("tr")[1:]:
                 columns = row.find_all("td")
-                paper_data = extract_paper_data(columns)
+                paper_data = extract_paper_data(paper_section, columns)
                 if paper_data:
                     papers.append(paper_data)
 
