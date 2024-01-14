@@ -1,21 +1,52 @@
 # NewEraAI-Papers
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-![Version](https://img.shields.io/badge/version-v1.0.0-rc0)
-![GitHub repo size](https://img.shields.io/github/repo-size/DmitryRyumin/NewEraAI-Papers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/DmitryRyumin/NewEraAI-Papers/blob/main/LICENSE)
-[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DmitryRyumin/NewEraAI-Papers/blob/main/README.md)
-![GitHub contributors](https://img.shields.io/github/contributors/dmitryryumin/NewEraAI-Papers)
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/dmitryryumin/NewEraAI-Papers)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/DmitryRyumin/NewEraAI-Papers)
-![GitHub issues](https://img.shields.io/github/issues/DmitryRyumin/NewEraAI-Papers)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/DmitryRyumin/NewEraAI-Papers)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/dmitryryumin/NewEraAI-Papers)
-![GitHub last commit](https://img.shields.io/github/last-commit/DmitryRyumin/NewEraAI-Papers)
-![GitHub watchers](https://img.shields.io/github/watchers/dmitryryumin/NewEraAI-Papers?style=flat)
-![GitHub forks](https://img.shields.io/github/forks/dmitryryumin/NewEraAI-Papers?style=flat)
-![GitHub Repo stars](https://img.shields.io/github/stars/dmitryryumin/NewEraAI-Papers?style=flat)
-![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FNewEraAI-Papers&label=Visitors&countColor=%23263759&style=flat)
+<table>
+  <tr>
+    <td><strong>General Information</strong></td>
+    <td>
+      <a href="https://github.com/sindresorhus/awesome">
+        <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">
+      </a>
+      <img src="https://img.shields.io/badge/version-v1.0.0-rc0" alt="Version">
+      <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Repository Size and Activity</strong></td>
+    <td>
+      <img src="https://img.shields.io/github/repo-size/DmitryRyumin/NewEraAI-Papers" alt="GitHub repo size">
+      <img src="https://img.shields.io/github/commit-activity/t/dmitryryumin/NewEraAI-Papers" alt="GitHub commit activity (branch)">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Contribution Statistics</strong></td>
+    <td>
+      <img src="https://img.shields.io/github/contributors/dmitryryumin/NewEraAI-Papers" alt="GitHub contributors">
+      <img src="https://img.shields.io/github/issues-closed/DmitryRyumin/NewEraAI-Papers" alt="GitHub closed issues">
+      <img src="https://img.shields.io/github/issues/DmitryRyumin/NewEraAI-Papers" alt="GitHub issues">
+      <img src="https://img.shields.io/github/issues-pr-closed/DmitryRyumin/NewEraAI-Papers" alt="GitHub closed pull requests">
+      <img src="https://img.shields.io/github/issues-pr/dmitryryumin/NewEraAI-Papers" alt="GitHub pull requests">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Other Metrics</strong></td>
+    <td>
+      <img src="https://img.shields.io/github/last-commit/DmitryRyumin/NewEraAI-Papers" alt="GitHub last commit">
+      <img src="https://img.shields.io/github/watchers/dmitryryumin/NewEraAI-Papers?style=flat" alt="GitHub watchers">
+      <img src="https://img.shields.io/github/forks/dmitryryumin/NewEraAI-Papers?style=flat" alt="GitHub forks">
+      <img src="https://img.shields.io/github/stars/dmitryryumin/NewEraAI-Papers?style=flat" alt="GitHub Repo stars">
+      <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FDmitryRyumin%2FNewEraAI-Papers&label=Visitors&countColor=%23263759&style=flat" alt="Visitors">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Application</strong></td>
+    <td>
+      <a href="https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers" style="float:left;">
+        <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -38,18 +69,13 @@ Contributions to improve the completeness of this list are greatly appreciated. 
 
 ## Supported Conferences
 
-<!--
-    2024:
-        WACV: 4-8 January
-        ICASSP: 14-19 April
-        ICLR: 7-11 Ma
-        CVPR: 17-21 June
-        ICML: 21-27 July
-        INTERSPEECH: 1-5 September
-        ECCV: 29 September - 04 October
-        NeurIPS: December?
-        EMNLP: December?
--->
+<a href="https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers" style="float:left;">
+  <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
+</a>
+
+<br />
+<br />
+
 > :exclamation: Conference table will be up to date all the time.
 
 <table>
