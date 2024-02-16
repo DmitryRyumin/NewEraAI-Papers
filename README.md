@@ -140,6 +140,11 @@ Contributions to improve the completeness of this list are greatly appreciated. 
         <td colspan="3" align="center"><i>Machine Learning (ML)</i></td>
     </tr>
     <tr>
+        <td>AAAI</td>
+        <td align="center">:heavy_minus_sign:</td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/AAAI-2024-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/AAAI-2024-Papers?style=flat" alt="" /></a></td>
+    </tr>
+    <tr>
         <td>ICLR</td>
         <td align="center">:heavy_minus_sign:</td>
         <td align="center"><img src="https://img.shields.io/badge/May-white?logo=github&labelColor=b31b1b" alt="" /></td>
