@@ -1,4 +1,4 @@
-# # ![NewEraAI-Papers](https://capsule-render.vercel.app/api?type=waving&height=115&color=2C2A2E&text=NewEraAI-Papers&section=header&reversal=false&textBg=false&fontAlign=50&fontSize=36&fontColor=FFFFFF&animation=scaleIn&fontAlignY=18)
+# ![NewEraAI-Papers](https://capsule-render.vercel.app/api?type=waving&height=115&color=2C2A2E&text=NewEraAI-Papers&section=header&reversal=false&textBg=false&fontAlign=50&fontSize=36&fontColor=FFFFFF&animation=scaleIn&fontAlignY=18)
 
 <table>
   <tr>
