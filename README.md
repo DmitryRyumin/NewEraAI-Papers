@@ -94,8 +94,7 @@ The repository provides links to collections of influential and interesting rese
     </tr>
     <tr>
         <td>CVPR</td>
-        <td align="center"><a href="https://github.com/DmitryRyumin/CVPR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/CVPR-2023-Papers?style=flat" alt="" /></a></td>
-        <td align="center"><img src="https://img.shields.io/badge/June-white?logo=github&labelColor=b31b1b" alt="" /></td>
+        <td colspan="2" align="center"><a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/CVPR-2023-24-Papers?style=flat" alt="" /></a></td>
     </tr>
     <tr>
         <td>ICCV</td>
