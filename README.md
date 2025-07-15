@@ -85,85 +85,99 @@ The repository provides links to collections of influential and interesting rese
 <table>
     <tr>
         <td rowspan="2" align="center"><strong>Conference</strong></td>
-        <td colspan="2" align="center"><strong>Year</strong></td>
+        <td colspan="3" align="center"><strong>Year</strong></td>
     </tr>
     <tr>
         <td colspan="1" align="center"><i>2023</i></td>
         <td colspan="1" align="center"><i>2024</i></td>
+        <td colspan="1" align="center"><i>2025</i></td>
     </tr>
     <tr>
-        <td colspan="3" align="center"><i>Computer Vision (CV)</i></td>
+        <td colspan="4" align="center"><i>Computer Vision (CV)</i></td>
     </tr>
     <tr>
         <td>CVPR</td>
         <td colspan="2" align="center"><a href="https://github.com/DmitryRyumin/CVPR-2023-24-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/CVPR-2023-24-Papers?style=flat" alt="" /></a></td>
+        <td align="center"><img src="https://img.shields.io/badge/June-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
         <td>ICCV</td>
         <td align="center"><a href="https://github.com/DmitryRyumin/ICCV-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICCV-2023-Papers?style=flat" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
         <td align="center"><img src="https://img.shields.io/badge/Not%20Scheduled-CC5540" alt=""/></td>
+        <td align="center"><img src="https://img.shields.io/badge/October-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
         <td>ECCV</td>
         <td align="center"><img src="https://img.shields.io/badge/Not%20Scheduled-CC5540" alt=""/></td>
         <td align="center"><img src="https://img.shields.io/badge/October-white?logo=github&labelColor=b31b1b" alt="" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/Not%20Scheduled-CC5540" alt=""/></td>
     </tr>
     <tr>
         <td>WACV</td>
         <td align="center">:heavy_minus_sign:</td>
         <td align="center"><a href="https://github.com/DmitryRyumin/WACV-2024-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/WACV-2024-Papers?style=flat" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
+        <td align="center"><img src="https://img.shields.io/badge/March-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
         <td>FG</td>
         <td align="center">:heavy_minus_sign:</td>
         <td align="center"><a href="https://github.com/DmitryRyumin/FG-2024-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/FG-2024-Papers?style=flat" alt="" /></a></td>
+        <td align="center"><img src="https://img.shields.io/badge/May-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
-        <td colspan="3" align="center"><i>Speech/Signal Processing (SP/SigProc)</i></td>
+        <td colspan="4" align="center"><i>Speech/Signal Processing (SP/SigProc)</i></td>
     </tr>
     <tr>
         <td>ICASSP</td>
         <td colspan="2" align="center"><a href="https://github.com/DmitryRyumin/ICASSP-2023-24-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICASSP-2023-24-Papers?style=flat" alt="" /></a></td>
+        <td align="center"><img src="https://img.shields.io/badge/April-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
         <td>INTERSPEECH</td>
         <td align="center"><a href="https://github.com/DmitryRyumin/INTERSPEECH-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/INTERSPEECH-2023-Papers?style=flat" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
         <td align="center"><img src="https://img.shields.io/badge/September-white?logo=github&labelColor=b31b1b" alt="" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/August-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
         <td>ISMIR</td>
         <td align="center"><a href="https://github.com/yamathcy/ISMIR-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/yamathcy/ISMIR-2023-Papers?style=flat" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
         <td align="center">:heavy_minus_sign:</td>
+        <td align="center">:heavy_minus_sign:</td>
     </tr>
     <tr>
-        <td colspan="3" align="center"><i>Natural Language Processing (NLP)</i></td>
+        <td colspan="4" align="center"><i>Natural Language Processing (NLP)</i></td>
     </tr>
     <tr>
         <td>EMNLP</td>
         <td align="center"><a href="https://github.com/DmitryRyumin/EMNLP-2023-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/EMNLP-2023-Papers?style=flat" alt="" /></a></td>
         <td align="center"><img src="https://img.shields.io/badge/December-white?logo=github&labelColor=b31b1b" alt="" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/November-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
-        <td colspan="3" align="center"><i>Machine Learning (ML)</i></td>
+        <td colspan="4" align="center"><i>Machine Learning (ML)</i></td>
     </tr>
     <tr>
         <td>AAAI</td>
         <td align="center">:heavy_minus_sign:</td>
         <td align="center"><a href="https://github.com/DmitryRyumin/AAAI-2024-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/AAAI-2024-Papers?style=flat" alt="" /></a></td>
+        <td align="center"><img src="https://img.shields.io/badge/March-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
         <td>ICLR</td>
         <td align="center">:heavy_minus_sign:</td>
         <td align="center"><img src="https://img.shields.io/badge/May-white?logo=github&labelColor=b31b1b" alt="" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/April-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
         <td>ICML</td>
         <td align="center">:heavy_minus_sign:</td>
         <td align="center"><img src="https://img.shields.io/badge/July-white?logo=github&labelColor=b31b1b" alt="" /></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/ICML-2025-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICML-2025-Papers?style=flat" alt="" /></a></td>
     </tr>
     <tr>
         <td>NeurIPS</td>
         <td align="center">:heavy_minus_sign:</td>
+        <td align="center"><img src="https://img.shields.io/badge/December-white?logo=github&labelColor=b31b1b" alt="" /></td>
         <td align="center"><img src="https://img.shields.io/badge/December-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
 </table>
