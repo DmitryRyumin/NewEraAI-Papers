@@ -104,7 +104,7 @@ The repository provides links to collections of influential and interesting rese
         <td>ICCV</td>
         <td align="center"><a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICCV-2023-25-Papers?style=flat" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
         <td align="center"><img src="https://img.shields.io/badge/Not%20Scheduled-CC5540" alt=""/></td>
-        <td align="center"><a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICCV-2023-25-Papers?style=flat" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/ICCV-2023-25-Papers" target="_blank"></a></td>
     </tr>
     <tr>
         <td>ECCV</td>
